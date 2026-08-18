@@ -45,3 +45,4 @@ Currently supports JPG, PNG, WEBP, and BMP. RAW support is planned.
 ## License
 
 MIT
+ 
